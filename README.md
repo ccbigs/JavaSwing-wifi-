@@ -1,6 +1,9 @@
 # JavaSwing-GadgetProject
 大二使用javaswing开发出一个小工具
 
+登陆账号：admin
+密码:123
+
 功能包括：
 
 1.刷选关键字
